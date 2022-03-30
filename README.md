@@ -1,5 +1,5 @@
 # Sobre mim:
-- 👋 Oi, meu nome é @Belasnick
+- 👋 Oi, meu nome é **@Belasnick**
 - 👀 Estou interessada em aprender a programar.
 - 🌱 Utilizando o Scrath.
 
